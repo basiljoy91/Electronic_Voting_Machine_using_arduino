@@ -214,7 +214,7 @@ void loop()
     lcd.setCursor(0,0);
     lcd.print("A:");
     lcd.print(can_1);
-    lcd.setCursor(7,0)
+    lcd.setCursor(7,0);
     lcd.print("B:");
     lcd.print(can_2);
     lcd.setCursor(0,1);
@@ -223,7 +223,7 @@ void loop()
     delay(1500);
    
 
-    if(can_1==can2 && can_2==can_3)
+    if(can_1==can_2 && can_2==can_3)
     {
       lcd.clear();
       lcd.setCursor(0,0);
