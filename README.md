@@ -32,7 +32,7 @@
   
 ## Project Timeline:
    <b>Project Initiation:</bs> July, 2017.
-   <be><b>Project Completion:</b> September 2017.
+   <br><b>Project Completion:</b> September 2017.
 
 ## Created by:
    Basil Joy.
