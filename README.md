@@ -2,7 +2,7 @@
 
 ## Project Overview.
 
-   An Electronic Voting Machine is used to make the voting system more efficient. Unlike the previous paper ballot system, this doesn't use many resources instead it uses digital control and signalling protocols. In this project, we are using Arduino to build a simulation of the same. Here it can record the votes of three candidates and determine the result like win, tie etc... We use a 16x2 LCD panel for the output and push buttons for the input. It has two units, a Control and a Ballot unit. The ballot unit is where people can cast their votes and the control unit is where the counting, verification and other similar processes happen.
+   An Electronic Voting Machine is used to make the voting system more efficient. Unlike the previous paper ballot system, this doesn't use many resources instead it uses digital control and signalling protocols. In this project, we are using Arduino to build a simulation of the same. Here it can record the votes of a maximum of three candidates and determine the result like win, tie etc... Use a 16x2 LCD panel for the output and push buttons for the input. It has two units, a Control and a Ballot unit. The ballot unit is where people can cast their votes and the control unit is where the counting, verification and other similar processes happen.
 
 ## How to use.
 
