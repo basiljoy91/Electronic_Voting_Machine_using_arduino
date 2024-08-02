@@ -31,9 +31,9 @@
    C++
   
 ## Project Timeline:
-   Project Initiation: 16th July, 2015.
+   Project Initiation: July, 2015.
    
-   Project Completion: 27tt September 2015.
+   Project Completion: September 2015.
 
 ## Created by:
    Basil Joy.
