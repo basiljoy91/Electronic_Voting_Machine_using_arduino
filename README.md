@@ -2,20 +2,20 @@
 
 ## Project Overview
 
-## Components
-
 ## How to use
+
+## Components
 
 ## Software and Language
    Arduino IDE
-   Wokwi (arduino simulation)
+   Wokwi (Arduino simulation)
    Circuit Diagram (web-app, for circuit creation)
   
 
 ## Project Timeline:
    Project Initiation: 16th July, 2015
    
-   Project Completion: 27tt September, 2015
+   Project Completion: 27tt September 2015
 
 ## Created by:
    Basil Joy
