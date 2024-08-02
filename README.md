@@ -8,7 +8,9 @@
 
 ## Software and Language
    Arduino IDE
+   
    Wokwi (Arduino simulation)
+   
    Circuit Diagram (web-app, for circuit creation)
   
 
